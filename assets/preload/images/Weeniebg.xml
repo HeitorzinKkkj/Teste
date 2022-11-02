@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Weeniebg.png">
+	
+	
+	<SubTexture name="weenieenter0000" x="1" y="1" width="454" height="398" frameX="0" frameY="-222" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0001" x="1" y="1" width="454" height="398" frameX="0" frameY="-222" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0002" x="456" y="1" width="457" height="416" frameX="-8" frameY="-115" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0003" x="456" y="1" width="457" height="416" frameX="-8" frameY="-115" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0004" x="914" y="1" width="428" height="418" frameX="-40" frameY="-12" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0005" x="914" y="1" width="428" height="418" frameX="-40" frameY="-12" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0006" x="1344" y="1" width="341" height="400" frameX="-161" frameY="-5" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0007" x="1344" y="1" width="341" height="400" frameX="-161" frameY="-5" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0008" x="1686" y="1" width="348" height="409" frameX="-161" frameY="0" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0009" x="1686" y="1" width="348" height="409" frameX="-161" frameY="0" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0010" x="1" y="420" width="330" height="387" frameX="-156" frameY="-24" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0011" x="1" y="420" width="330" height="387" frameX="-156" frameY="-24" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0012" x="332" y="420" width="328" height="373" frameX="-143" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0013" x="332" y="420" width="328" height="373" frameX="-143" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0014" x="661" y="420" width="316" height="373" frameX="-155" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0015" x="661" y="420" width="316" height="373" frameX="-155" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0016" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieenter0017" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieenter0018" x="979" y="420" width="312" height="368" frameX="-170" frameY="-42" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0019" x="979" y="420" width="312" height="368" frameX="-170" frameY="-42" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0020" x="1292" y="420" width="342" height="377" frameX="-216" frameY="-33" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0021" x="1292" y="420" width="342" height="377" frameX="-216" frameY="-33" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0022" x="1635" y="420" width="327" height="379" frameX="-228" frameY="-31" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0023" x="1635" y="420" width="327" height="379" frameX="-228" frameY="-31" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0024" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0025" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0026" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0027" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0028" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0029" x="1" y="808" width="335" height="382" frameX="-227" frameY="-28" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0030" x="337" y="808" width="337" height="374" frameX="-218" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0031" x="337" y="808" width="337" height="374" frameX="-218" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0032" x="675" y="808" width="325" height="364" frameX="-199" frameY="-47" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0033" x="675" y="808" width="325" height="364" frameX="-199" frameY="-47" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0034" x="1002" y="808" width="317" height="374" frameX="-155" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0035" x="1002" y="808" width="317" height="374" frameX="-155" frameY="-37" frameWidth="562" frameHeight="620" />
+	<SubTexture name="weenieenter0036" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieenter0037" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieenter0038" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieenter0039" x="663" y="1192" width="315" height="373" frameX="-157" frameY="-38" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0000" x="1320" y="808" width="333" height="364" frameX="-144" frameY="-41" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0001" x="1320" y="808" width="333" height="364" frameX="-144" frameY="-41" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0002" x="1654" y="808" width="368" height="369" frameX="-105" frameY="-36" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0003" x="1654" y="808" width="368" height="369" frameX="-105" frameY="-36" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0004" x="1" y="1192" width="340" height="365" frameX="-128" frameY="-39" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0005" x="1" y="1192" width="340" height="365" frameX="-128" frameY="-39" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0006" x="342" y="1192" width="320" height="374" frameX="-147" frameY="-30" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0007" x="342" y="1192" width="320" height="374" frameX="-147" frameY="-30" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0008" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0009" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0010" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0011" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0012" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+	<SubTexture name="weenieidle0013" x="663" y="1192" width="315" height="373" frameX="-153" frameY="-31" frameWidth="372" frameHeight="374" />
+</TextureAtlas>

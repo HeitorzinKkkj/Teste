@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fatboybg.png">
+	
+	
+	<SubTexture name="fatboyenter0000" x="1" y="1" width="459" height="501" frameX="-4" frameY="-224" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0001" x="1" y="1" width="459" height="501" frameX="-4" frameY="-224" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0002" x="461" y="1" width="459" height="503" frameX="0" frameY="-126" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0003" x="461" y="1" width="459" height="503" frameX="0" frameY="-126" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0004" x="921" y="1" width="438" height="511" frameX="-14" frameY="-14" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0005" x="921" y="1" width="438" height="511" frameX="-14" frameY="-14" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0006" x="1360" y="1" width="327" height="501" frameX="-9" frameY="-1" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0007" x="1360" y="1" width="327" height="501" frameX="-9" frameY="-1" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0008" x="1689" y="1" width="512" height="619" frameX="-6" frameY="0" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0009" x="1689" y="1" width="512" height="619" frameX="-6" frameY="0" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0010" x="2202" y="1" width="498" height="529" frameX="-27" frameY="-26" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0011" x="2202" y="1" width="498" height="529" frameX="-27" frameY="-26" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0012" x="2701" y="1" width="491" height="475" frameX="-27" frameY="-31" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0013" x="2701" y="1" width="491" height="475" frameX="-27" frameY="-31" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0014" x="3193" y="1" width="492" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0015" x="3193" y="1" width="492" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0016" x="1" y="621" width="484" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0017" x="1" y="621" width="484" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0018" x="486" y="621" width="481" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0019" x="486" y="621" width="481" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0020" x="969" y="621" width="480" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0021" x="969" y="621" width="480" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0022" x="969" y="621" width="480" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0023" x="969" y="621" width="480" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyenter0024" x="969" y="621" width="480" height="476" frameX="-27" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyidle0000" x="1450" y="621" width="516" height="451" frameX="0" frameY="-56" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0001" x="1450" y="621" width="516" height="451" frameX="0" frameY="-56" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0002" x="1968" y="621" width="557" height="474" frameX="-8" frameY="-36" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0003" x="1968" y="621" width="557" height="474" frameX="-8" frameY="-36" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0004" x="2526" y="621" width="545" height="471" frameX="-16" frameY="-36" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0005" x="2526" y="621" width="545" height="471" frameX="-16" frameY="-36" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0006" x="3073" y="621" width="495" height="475" frameX="-16" frameY="-32" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0007" x="3073" y="621" width="495" height="475" frameX="-16" frameY="-32" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0008" x="3569" y="621" width="483" height="475" frameX="-16" frameY="-32" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0009" x="3569" y="621" width="483" height="475" frameX="-16" frameY="-32" frameWidth="565" frameHeight="480" />
+	<SubTexture name="fatboyidle0010" x="969" y="621" width="480" height="476" frameX="-16" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyidle0011" x="969" y="621" width="480" height="476" frameX="-16" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyidle0012" x="969" y="621" width="480" height="476" frameX="-16" frameY="-30" frameWidth="524" frameHeight="725" />
+	<SubTexture name="fatboyidle0013" x="969" y="621" width="480" height="476" frameX="-16" frameY="-30" frameWidth="524" frameHeight="725" />
+</TextureAtlas>

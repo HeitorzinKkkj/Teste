@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CharacterMenu_assets.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_assets0000" x="2" y="2" width="1168" height="1087" frameX="-73" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0001" x="2" y="2" width="1168" height="1087" frameX="-73" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0002" x="1172" y="2" width="1315" height="1087"/>
+	<SubTexture name="menu_assets0003" x="1172" y="2" width="1315" height="1087"/>
+	<SubTexture name="menu_assets0004" x="2489" y="2" width="1291" height="1087" frameX="-14" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0005" x="2489" y="2" width="1291" height="1087" frameX="-14" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0006" x="2" y="1091" width="1179" height="1087" frameX="-73" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0007" x="2" y="1091" width="1179" height="1087" frameX="-73" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0008" x="1183" y="1091" width="1133" height="1087" frameX="-95" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0009" x="1183" y="1091" width="1133" height="1087" frameX="-95" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0010" x="2318" y="1091" width="1129" height="1087" frameX="-98" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0011" x="2318" y="1091" width="1129" height="1087" frameX="-98" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0012" x="2318" y="1091" width="1129" height="1087" frameX="-98" frameY="0" frameWidth="1315" frameHeight="1087"/>
+	<SubTexture name="menu_assets0013" x="2318" y="1091" width="1129" height="1087" frameX="-98" frameY="0" frameWidth="1315" frameHeight="1087"/>
+</TextureAtlas>

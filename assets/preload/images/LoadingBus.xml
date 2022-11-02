@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LoadingBus.png">
+	
+	
+	<SubTexture name="busmove0000" x="1" y="1" width="1599" height="463" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0001" x="1" y="1" width="1599" height="463" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0002" x="1601" y="1" width="1599" height="446" frameX="0" frameY="0" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0003" x="1601" y="1" width="1599" height="446" frameX="0" frameY="0" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0004" x="1" y="465" width="1599" height="437" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0005" x="1" y="465" width="1599" height="437" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busmove0006" x="1601" y="465" width="1599" height="465" />
+	<SubTexture name="busmove0007" x="1601" y="465" width="1599" height="465" />
+	<SubTexture name="busstill0000" x="1" y="931" width="1599" height="463" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busstill0001" x="1" y="931" width="1599" height="463" frameX="0" frameY="-2" frameWidth="1599" frameHeight="465" />
+	<SubTexture name="busstill0002" x="1601" y="931" width="1599" height="465" />
+	<SubTexture name="busstill0003" x="1601" y="931" width="1599" height="465" />
+</TextureAtlas>

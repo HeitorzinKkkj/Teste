@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static.png">
+        <SubTexture name="static grrr0000" x="0" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0001" x="324" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0002" x="648" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0003" x="972" y="0" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0004" x="0" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0005" x="324" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0006" x="648" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+        <SubTexture name="static grrr0007" x="972" y="244" width="324" height="244" frameX="0" frameY="0" frameWidth="324" frameHeight="244" />
+</TextureAtlas>

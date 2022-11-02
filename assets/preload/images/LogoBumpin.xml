@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LogoBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOGObumpin0000" x="4" y="4" width="796" height="796"/>
+	<SubTexture name="LOGObumpin0001" x="4" y="4" width="796" height="796"/>
+	<SubTexture name="LOGObumpin0002" x="804" y="4" width="724" height="724" frameX="-36" frameY="-36" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0003" x="804" y="4" width="724" height="724" frameX="-36" frameY="-36" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0004" x="4" y="804" width="700" height="700" frameX="-48" frameY="-48" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0005" x="4" y="804" width="700" height="700" frameX="-48" frameY="-48" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0006" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0007" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0008" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0009" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0010" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0011" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0012" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+	<SubTexture name="LOGObumpin0013" x="708" y="804" width="693" height="692" frameX="-50" frameY="-50" frameWidth="796" frameHeight="796"/>
+</TextureAtlas>
