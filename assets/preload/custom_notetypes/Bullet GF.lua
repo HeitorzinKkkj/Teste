@@ -1,0 +1,24 @@
+function onCreate()
+	--Iterate over all notes
+	for i = 0, getProperty('unspawnNotes.length')-1 do
+		--Check if the note is an desviation note
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Bullet GF' then
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'bulletBFNOTE_assets'); --Change texture
+				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has no penalties
+		end
+	end
+	--debugPrint('Script started!')
+	function noteMiss(id, i, noteType, isSustainNote)
+		if noteType == 'Bullet Hank' then
+			setProperty('health', -400);
+	end
+end
+end
+
+function opponentNoteHit(id, noteData, noteType, isSustainNote)
+	if noteType == 'Bullet GF' then
+	characterPlayAnim('gf', 'SHOOT', true);
+	characterPlayAnim('dad', 'dodge', true);
+	triggerEvent('Screen Shake', '0.35, 0.01', '0, 0');
+	end
+end
