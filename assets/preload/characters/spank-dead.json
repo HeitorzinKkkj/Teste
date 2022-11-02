@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "gameoverSTARTbf"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "gameoverLOOPbf"
+		},
+		{
+			"offsets": [
+				90,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "gameoverCONFIRMbf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfDIES",
+	"position": [
+		70,
+		130
+	],
+	"healthbar_colors2": [
+		49,
+		176,
+		209
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.35
+}

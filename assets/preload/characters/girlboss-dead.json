@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "gameoverCONFIRMgf"
+		},
+		{
+			"offsets": [
+				33,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "gameoverSTARTgf"
+		},
+		{
+			"offsets": [
+				33,
+				-120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "gameoverLOOPgf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfDIES",
+	"position": [
+		70,
+		130
+	],
+	"healthbar_colors2": [
+		49,
+		176,
+		209
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1.35
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gfidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-200
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": "gfleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-180
+			],
+			"anim": "singUP",
+			"fps": 60,
+			"name": "gfup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-310,
+				-190
+			],
+			"anim": "singRIGHT",
+			"fps": 60,
+			"name": "gfright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-185
+			],
+			"anim": "singLEFTmiss",
+			"fps": 60,
+			"name": "gfMISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-360,
+				-250
+			],
+			"anim": "singDOWNmiss",
+			"fps": 60,
+			"name": "gfMISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-235,
+				-160
+			],
+			"anim": "singUPmiss",
+			"fps": 60,
+			"name": "gfMISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				-190
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 60,
+			"name": "gfMISSright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-100
+			],
+			"anim": "SHOOT",
+			"fps": 24,
+			"name": "gfshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-255
+			],
+			"anim": "singDOWN",
+			"fps": 60,
+			"name": "gfdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "DODGE",
+			"indices": [],
+			"name": "gfdodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Girlboss",
+	"position": [
+		-300,
+		170
+	],
+	"healthicon": "GF",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		21,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.5,
+	"scale": 1.6
+}
